@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: aa7158e4e36970c4a91e7d332b00ef24
+timeCreated: 1511128463
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Climate_Control_Panel
+    100002: Dashboard_Extention
+    100004: //RootNode
+    100006: DeLorean_Door
+    100008: DeLorean_Door_001
+    100010: DeLorean_Master
+    100012: DMC_Logo
+    100014: Driver_Door_Control
+    100016: Extender
+    100018: Extender_001
+    100020: Extender_002
+    100022: Extender_003
+    100024: External_Mech_Mirrored
+    100026: External_Mech_Mirrored_MeshPart0
+    100028: External_Mech_Mirrored_MeshPart1
+    100030: External_Mech_Mirrored_MeshPart2
+    100032: External_Mech_NonMirrored
+    100034: FD_Wheel
+    100036: Floorpan
+    100038: Forward_Wires_And_Amp
+    100040: FP_Wheel
+    100042: Grille
+    100044: Hood_Vent
+    100046: Hover_Control
+    100048: Interior_Tech_Parts
+    100050: Interior_Tech_Parts_MeshPart0
+    100052: Interior_Tech_Parts_MeshPart1
+    100054: Internal_Mech_Mirrored
+    100056: KI_Label
+    100058: Large_Wires_Internal
+    100060: License_Plate
+    100062: Main_Body
+    100064: Main_Dashboard
+    100066: Main_Undercarriage
+    100068: Main_Undercarriage_MeshPart0
+    100070: Main_Undercarriage_MeshPart1
+    100072: Mr_Fusion
+    100074: Passenger_Door_Control
+    100076: Plane_006
+    100078: Power_Cables
+    100080: Radiator_Fins
+    100082: RD_Wheel
+    100084: Rear_Bumper
+    100086: Rotator
+    100088: Rotator_001
+    100090: Rotator_002
+    100092: Rotator_003
+    100094: RP_Wheel
+    100096: Seats
+    100098: Small_Wires
+    100100: Steering_Column
+    100102: Steering_Wheel
+    100104: Switch_Wire_Set
+    100106: Tail_Gaurd
+    100108: Text_003
+    100110: Time_Distortion_Projector
+    100112: Time_Vortex_Generators
+    100114: Upper_Panel_Mirrored
+    100116: Upper_Panel_Unmirrored
+    100118: Wipers
+    100120: Wire_Terminators
+    400000: Climate_Control_Panel
+    400002: Dashboard_Extention
+    400004: //RootNode
+    400006: DeLorean_Door
+    400008: DeLorean_Door_001
+    400010: DeLorean_Master
+    400012: DMC_Logo
+    400014: Driver_Door_Control
+    400016: Extender
+    400018: Extender_001
+    400020: Extender_002
+    400022: Extender_003
+    400024: External_Mech_Mirrored
+    400026: External_Mech_Mirrored_MeshPart0
+    400028: External_Mech_Mirrored_MeshPart1
+    400030: External_Mech_Mirrored_MeshPart2
+    400032: External_Mech_NonMirrored
+    400034: FD_Wheel
+    400036: Floorpan
+    400038: Forward_Wires_And_Amp
+    400040: FP_Wheel
+    400042: Grille
+    400044: Hood_Vent
+    400046: Hover_Control
+    400048: Interior_Tech_Parts
+    400050: Interior_Tech_Parts_MeshPart0
+    400052: Interior_Tech_Parts_MeshPart1
+    400054: Internal_Mech_Mirrored
+    400056: KI_Label
+    400058: Large_Wires_Internal
+    400060: License_Plate
+    400062: Main_Body
+    400064: Main_Dashboard
+    400066: Main_Undercarriage
+    400068: Main_Undercarriage_MeshPart0
+    400070: Main_Undercarriage_MeshPart1
+    400072: Mr_Fusion
+    400074: Passenger_Door_Control
+    400076: Plane_006
+    400078: Power_Cables
+    400080: Radiator_Fins
+    400082: RD_Wheel
+    400084: Rear_Bumper
+    400086: Rotator
+    400088: Rotator_001
+    400090: Rotator_002
+    400092: Rotator_003
+    400094: RP_Wheel
+    400096: Seats
+    400098: Small_Wires
+    400100: Steering_Column
+    400102: Steering_Wheel
+    400104: Switch_Wire_Set
+    400106: Tail_Gaurd
+    400108: Text_003
+    400110: Time_Distortion_Projector
+    400112: Time_Vortex_Generators
+    400114: Upper_Panel_Mirrored
+    400116: Upper_Panel_Unmirrored
+    400118: Wipers
+    400120: Wire_Terminators
+    2300000: Climate_Control_Panel
+    2300002: Dashboard_Extention
+    2300004: DeLorean_Door
+    2300006: DeLorean_Door_001
+    2300008: DMC_Logo
+    2300010: Driver_Door_Control
+    2300012: Extender
+    2300014: Extender_001
+    2300016: Extender_002
+    2300018: Extender_003
+    2300020: External_Mech_Mirrored_MeshPart0
+    2300022: External_Mech_Mirrored_MeshPart1
+    2300024: External_Mech_Mirrored_MeshPart2
+    2300026: External_Mech_NonMirrored
+    2300028: FD_Wheel
+    2300030: Floorpan
+    2300032: Forward_Wires_And_Amp
+    2300034: FP_Wheel
+    2300036: Grille
+    2300038: Hood_Vent
+    2300040: Hover_Control
+    2300042: Interior_Tech_Parts_MeshPart0
+    2300044: Interior_Tech_Parts_MeshPart1
+    2300046: Internal_Mech_Mirrored
+    2300048: KI_Label
+    2300050: Large_Wires_Internal
+    2300052: License_Plate
+    2300054: Main_Body
+    2300056: Main_Dashboard
+    2300058: Main_Undercarriage_MeshPart0
+    2300060: Main_Undercarriage_MeshPart1
+    2300062: Mr_Fusion
+    2300064: Passenger_Door_Control
+    2300066: Plane_006
+    2300068: Power_Cables
+    2300070: Radiator_Fins
+    2300072: RD_Wheel
+    2300074: Rear_Bumper
+    2300076: Rotator
+    2300078: Rotator_001
+    2300080: Rotator_002
+    2300082: Rotator_003
+    2300084: RP_Wheel
+    2300086: Seats
+    2300088: Small_Wires
+    2300090: Steering_Column
+    2300092: Steering_Wheel
+    2300094: Switch_Wire_Set
+    2300096: Tail_Gaurd
+    2300098: Text_003
+    2300100: Time_Distortion_Projector
+    2300102: Time_Vortex_Generators
+    2300104: Upper_Panel_Mirrored
+    2300106: Upper_Panel_Unmirrored
+    2300108: Wipers
+    2300110: Wire_Terminators
+    3300000: Climate_Control_Panel
+    3300002: Dashboard_Extention
+    3300004: DeLorean_Door
+    3300006: DeLorean_Door_001
+    3300008: DMC_Logo
+    3300010: Driver_Door_Control
+    3300012: Extender
+    3300014: Extender_001
+    3300016: Extender_002
+    3300018: Extender_003
+    3300020: External_Mech_Mirrored_MeshPart0
+    3300022: External_Mech_Mirrored_MeshPart1
+    3300024: External_Mech_Mirrored_MeshPart2
+    3300026: External_Mech_NonMirrored
+    3300028: FD_Wheel
+    3300030: Floorpan
+    3300032: Forward_Wires_And_Amp
+    3300034: FP_Wheel
+    3300036: Grille
+    3300038: Hood_Vent
+    3300040: Hover_Control
+    3300042: Interior_Tech_Parts_MeshPart0
+    3300044: Interior_Tech_Parts_MeshPart1
+    3300046: Internal_Mech_Mirrored
+    3300048: KI_Label
+    3300050: Large_Wires_Internal
+    3300052: License_Plate
+    3300054: Main_Body
+    3300056: Main_Dashboard
+    3300058: Main_Undercarriage_MeshPart0
+    3300060: Main_Undercarriage_MeshPart1
+    3300062: Mr_Fusion
+    3300064: Passenger_Door_Control
+    3300066: Plane_006
+    3300068: Power_Cables
+    3300070: Radiator_Fins
+    3300072: RD_Wheel
+    3300074: Rear_Bumper
+    3300076: Rotator
+    3300078: Rotator_001
+    3300080: Rotator_002
+    3300082: Rotator_003
+    3300084: RP_Wheel
+    3300086: Seats
+    3300088: Small_Wires
+    3300090: Steering_Column
+    3300092: Steering_Wheel
+    3300094: Switch_Wire_Set
+    3300096: Tail_Gaurd
+    3300098: Text_003
+    3300100: Time_Distortion_Projector
+    3300102: Time_Vortex_Generators
+    3300104: Upper_Panel_Mirrored
+    3300106: Upper_Panel_Unmirrored
+    3300108: Wipers
+    3300110: Wire_Terminators
+    4300000: Plane_006
+    4300002: Upper_Panel_Unmirrored
+    4300004: Upper_Panel_Mirrored
+    4300006: Forward_Wires_And_Amp
+    4300008: Driver_Door_Control
+    4300010: DeLorean_Door
+    4300012: Passenger_Door_Control
+    4300014: DeLorean_Door_001
+    4300016: Main_Undercarriage_MeshPart0
+    4300018: Main_Undercarriage_MeshPart1
+    4300020: Hover_Control
+    4300022: Extender
+    4300024: Rotator
+    4300026: FD_Wheel
+    4300028: Extender_003
+    4300030: Rotator_001
+    4300032: FP_Wheel
+    4300034: Extender_002
+    4300036: Rotator_002
+    4300038: RP_Wheel
+    4300040: Main_Body
+    4300042: Hood_Vent
+    4300044: Radiator_Fins
+    4300046: License_Plate
+    4300048: DMC_Logo
+    4300050: Grille
+    4300052: Wipers
+    4300054: Rear_Bumper
+    4300056: Tail_Gaurd
+    4300058: Extender_001
+    4300060: Rotator_003
+    4300062: RD_Wheel
+    4300064: Wire_Terminators
+    4300066: Climate_Control_Panel
+    4300068: Large_Wires_Internal
+    4300070: Small_Wires
+    4300072: Internal_Mech_Mirrored
+    4300074: Text_003
+    4300076: KI_Label
+    4300078: Switch_Wire_Set
+    4300080: Main_Dashboard
+    4300082: Interior_Tech_Parts_MeshPart0
+    4300084: Interior_Tech_Parts_MeshPart1
+    4300086: Dashboard_Extention
+    4300088: Steering_Column
+    4300090: Steering_Wheel
+    4300092: Seats
+    4300094: Floorpan
+    4300096: Power_Cables
+    4300098: External_Mech_Mirrored_MeshPart0
+    4300100: External_Mech_Mirrored_MeshPart1
+    4300102: External_Mech_Mirrored_MeshPart2
+    4300104: Time_Vortex_Generators
+    4300106: External_Mech_NonMirrored
+    4300108: Mr_Fusion
+    4300110: Time_Distortion_Projector
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Interior
+    second: {fileID: 2100000, guid: 1c0b165a44b51234b964307808e804e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClcokBrown1
+    second: {fileID: 2100000, guid: b7d3e32a367b75d4386e6792c7394688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClcokBrown2
+    second: {fileID: 2100000, guid: e23a6e204658f1340907cf9d9c32cb99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClcokBrown3
+    second: {fileID: 2100000, guid: 433867d7adf7fa241a55e7b154d9d09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_Body
+    second: {fileID: 2100000, guid: c123bd6f07ca59e499ae3246ecac6044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Silver_Parts
+    second: {fileID: 2100000, guid: 77fd260ee3a4dce44a8f5c38146ca9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Silver_Parts_Blue
+    second: {fileID: 2100000, guid: d4f7caef5bd45b04eaf8a4bd8797f675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_Silver_Parts_Darker
+    second: {fileID: 2100000, guid: a2ceba1e217523a4280f9130c3b1e490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Interior_Grey_Darker
+    second: {fileID: 2100000, guid: 926065ee3df7bf6468ce0ee135b15113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Interior_Grey_Darkest
+    second: {fileID: 2100000, guid: e0b238d3718f07446b817cfcd7ab5c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Interior_Grey_Lighter
+    second: {fileID: 2100000, guid: b35e2a5a6bc1627468cf292043fca580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flatter_Grey
+    second: {fileID: 2100000, guid: 99cdf2cebe982664ba9052bcf7e44eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: cb10634c1ca772b4898b2c74c344f26a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow_Flux
+    second: {fileID: 2100000, guid: 2051bf50a16af514a831cce8efa8679a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_Gloss_Lamp
+    second: {fileID: 2100000, guid: a17db4b770e0d6f48af67f6ca0cebd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey_Shiny_Plastic
+    second: {fileID: 2100000, guid: eb85bf2a9d2d593468c89e01859aca88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey_Shiny_Plastic_Ex_Int
+    second: {fileID: 2100000, guid: de321ac6c82cc304690355dc35c05afb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey_Shiny_Plastic_Exterior
+    second: {fileID: 2100000, guid: 6b52fc63c0380bc41946403d732631c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey_Shiny_Plastic_Lighter
+    second: {fileID: 2100000, guid: 1738ff5238e323b4e9b300d434137e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interm_Grey_Plastic
+    second: {fileID: 2100000, guid: 3c2624046bbb69f47a20fc2e730fe075, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Black
+    second: {fileID: 2100000, guid: 1e40db80361d5274cbd4eb0f010d410d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Blue
+    second: {fileID: 2100000, guid: 2fe93c246626a9f4695916882bb91fc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Green
+    second: {fileID: 2100000, guid: a4ea8b56c20103346bbdc431164064fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Green_Dark
+    second: {fileID: 2100000, guid: 63ab6fa8cc883754d9ac9596a9b523a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Offline
+    second: {fileID: 2100000, guid: a1764b31a9490d540a515fae3712d4c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Orange
+    second: {fileID: 2100000, guid: 1d8324a7b7d88b045a46683760cbf078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Orange_Dark
+    second: {fileID: 2100000, guid: 8b7df0a972614834c904e784f62d12a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Red
+    second: {fileID: 2100000, guid: 5e721ab42c3a85540b80b26aa1ff89cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Red_Dark
+    second: {fileID: 2100000, guid: 982a5d7883bcbc04ab19f4861ba6950e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Yellow
+    second: {fileID: 2100000, guid: 609ca38c87248084fb04d2183bc6c982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_Screen_Yellow_Dark
+    second: {fileID: 2100000, guid: 4fdd93703a720b040ae8d51f55125e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LED_White
+    second: {fileID: 2100000, guid: 3a490ebf6a2e408468e160ba054b6a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Light_Grey
+    second: {fileID: 2100000, guid: 9033784b0e878b94986cde141876c355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Orange
+    second: {fileID: 2100000, guid: ba593cc92e3297e4f938ef700c9b7f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Red
+    second: {fileID: 2100000, guid: f831ef06d104dad4bbe798c7a448defa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Yellow
+    second: {fileID: 2100000, guid: 21c7978698aa95347b1edf46d1360f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: dd8f38c5d1234864188e2bf17cadeced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: c188d8a83235654489d17c527056226c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 352c85e3aadccc8499033fa388379752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off_White_Metal
+    second: {fileID: 2100000, guid: c8583de1e8d851c40913c241d2d047b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off_White_Plastic
+    second: {fileID: 2100000, guid: 2a0b54f59a4aa4343b3b363644513447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrangeGlass
+    second: {fileID: 2100000, guid: d4422d144254de141849e02d8f17b0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_Shiny
+    second: {fileID: 2100000, guid: bcb78991cda2156498d07673dfb172f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedGlass
+    second: {fileID: 2100000, guid: 3052d930128318a45b62a0415fbf4d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Gloss_Lamp
+    second: {fileID: 2100000, guid: 9899ce6d8567b8a488e1585462d29846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat_Material
+    second: {fileID: 2100000, guid: 82d36a373420f764e8c9264701540e00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shiny_Gold
+    second: {fileID: 2100000, guid: 9ade8c50fe951c54195f2b99d740e094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shiny_Red
+    second: {fileID: 2100000, guid: c388d19259d372440a0bda836c2cfe03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Parts
+    second: {fileID: 2100000, guid: 6c11a063a7ce4a340949c37ea1b8ba42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_PartsUnderCar
+    second: {fileID: 2100000, guid: 55d701ba23c48a9448c0b8e620f33dfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Parts_Darker
+    second: {fileID: 2100000, guid: 31f96232df9615e46bb59a0e5a494ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Parts_DarkerUnderCar
+    second: {fileID: 2100000, guid: f4456b38effb151468ab907ce8450503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Parts_Intermediate
+    second: {fileID: 2100000, guid: 8e8a872301b3eef44ade3113373ff4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Parts_Light
+    second: {fileID: 2100000, guid: e012ab59e03414a47938374f22c3a070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: 06ef28c2f06b09c4f8352e7acf7a70c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UnderCarMetal
+    second: {fileID: 2100000, guid: 5746ba3b12738364f8f34b7c856c9e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UnderCarriage
+    second: {fileID: 2100000, guid: cf8f32ad707cb504fa3ff252c4141b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Voroni_Black_Plastic
+    second: {fileID: 2100000, guid: 4dd577d51e242384aa9cb530d36f27b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Rim
+    second: {fileID: 2100000, guid: 3c8538f47f0dc824e911b23a3a42c4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteGlass
+    second: {fileID: 2100000, guid: 85b16e67f7daff34caae4fa81dfcb1ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Plastic_Shiny
+    second: {fileID: 2100000, guid: b1c1ab68bf2b102438c325b00089985e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_Blue
+    second: {fileID: 2100000, guid: f7af9cfe93cbd8b469b3d312bc743280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_Orange
+    second: {fileID: 2100000, guid: ecf5a9e2d4312ef4a82e08d618383ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire_Red
+    second: {fileID: 2100000, guid: 75cce6dd3398f38448329b4de38aa589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow_Gloss_Lamp
+    second: {fileID: 2100000, guid: 8c2ed52f989b95148b0c77a05bddfc95, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
